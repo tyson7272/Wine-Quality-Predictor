@@ -7,12 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.write("""
 # Wine Quality Prediction App
 This app predicts the ***Wine Quality*** type!\n
-Group members:\n
-1. Yadnesh Chowkekar-11812009
-2. Sakshi Polekar-11822019
-3. Atharva Deshmukh-11812010
 
-Mentor: Prof.Aishwarya Londhe 
 """)
 #creating sidebar for user input features
 st.sidebar.header('User Input Parameters')
