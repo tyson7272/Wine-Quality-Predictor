@@ -6,8 +6,9 @@ from sklearn.ensemble import RandomForestClassifier
 #app heading
 st.write("""
 # Wine Quality Prediction App
-This app predicts the ***Wine Quality*** type!\n
 Author: Yadnesh Chowkekar
+This app predicts the ***Wine Quality*** type!\n
+
 """)
 #creating sidebar for user input features
 st.sidebar.header('User Input Parameters')
