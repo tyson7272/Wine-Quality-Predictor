@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 #app heading
 st.write("""
 # Wine Quality Prediction App
-Author: Yadnesh Chowkekar
+Author: Yadnesh Chowkekar \n
 This app predicts the ***Wine Quality*** type!\n
 
 """)
